@@ -2,4 +2,4 @@
 ПІБ та група - Статечний Сергій КВ-03,
 Назва лаб. роботи - Розробка статичного інтерфейсу Web-додатка,
 Завдання - розробити статичні Web-сторінки додатку та перевірити коректне їх відображення на екранах різного розміру,
-Посилання на звіт - https://docs.google.com/document/d/1sJz4it_zErN8AqP1kcUBe4BUAAIrGA-c3e8oxYkcyyE/edit
+Посилання на звіт - https://docs.google.com/document/d/1UpIpYAMfLtQvICYF0PGJ8u4-lH2HZ24__4XRaGWQh3w/edit
